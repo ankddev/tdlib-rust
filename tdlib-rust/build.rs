@@ -118,7 +118,7 @@ fn generic_build() {
 
 #[cfg(feature = "download-tdlib")]
 fn download_tdlib() {
-    let base_url = "https://github.com/FedericoBruzzone/tdlib-rs/releases/download";
+    let base_url = "https://github.com/ankddev/tdlib-rust/releases/download";
     let url = format!(
         "{}/v{}/tdlib-{}-{}-{}.zip",
         base_url,
