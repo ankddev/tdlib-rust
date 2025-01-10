@@ -1,0 +1,19 @@
+[package]
+name = "tdlib-rust-parser"
+version = "1.0.0"
+authors = [
+    "ANKDDEV",
+]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/ankddev/tdlib-rust"
+repository = "https://github.com/ankddev/tdlib-rust"
+documentation = "https://docs.rs/tdlib-rust-parser"
+keywords = [
+    "tdlib",
+    "telegram",
+    "parser",
+    "api",
+    "tdlib-rust",
+]
+description = "A parser for TDLib's Type Language definitions."

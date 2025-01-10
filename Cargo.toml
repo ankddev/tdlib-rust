@@ -1,0 +1,3 @@
+[workspace]
+members = ["tdlib-rust", "tdlib-rust-gen", "tdlib-rust-parser"]
+resolver = "2"
